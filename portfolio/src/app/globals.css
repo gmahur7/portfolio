@@ -17,7 +17,7 @@
 }
 
 .text-outline {
-  -webkit-text-stroke: 1px #ffffff;
+  -webkit-text-stroke: 1px #777777;
 }
 
 .text-outline:hover {
